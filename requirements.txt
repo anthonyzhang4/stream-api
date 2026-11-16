@@ -2,3 +2,4 @@ quixstreams
 requests-sse
 httpx2
 pandas
+numpy
